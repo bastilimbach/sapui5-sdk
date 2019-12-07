@@ -1,0 +1,20 @@
+{
+  "name": "sapui5-sdk",
+  "version": "0.0.1",
+  "description": "Downloads the official SAPUI5 SDK for local development",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": "https://github.com/bastilimbach/sapui5-sdk",
+  "bugs": "https://github.com/bastilimbach/sapui5-sdk/issues",
+  "author": "Sebastian Limbach <hello@sebastianlimbach.com>",
+  "license": "MIT",
+  "keywords": [
+    "openui5",
+    "sapui5",
+    "runtime",
+    "local",
+    "sap",
+    "webide",
+    "abap"
+  ]
+}
